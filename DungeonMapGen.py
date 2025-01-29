@@ -4,7 +4,7 @@ import pygame as p
 SIZE = 20 #---size of col or row in map---#
 MAX_TUNNELS = 100 #---max amount of rooms---#
 MAX_LENGTH = 5 #---max amount of tunnels in a row---#
-CELL_SIZE = 50
+CELL_SIZE = 30
 RED = (255,0,0)
 WHITE = (255,255,255)
 BLACK = (0,0,0)
